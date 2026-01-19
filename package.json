@@ -1,0 +1,19 @@
+{
+  "name": "Cursor_IDE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.28.0",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "groq": "4.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
